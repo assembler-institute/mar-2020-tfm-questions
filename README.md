@@ -8,7 +8,7 @@
     - You should always try to solve everything by yourself
 - Have you asked your colleagues if they have faced the same problem?
 - Is there an Issue asking the same question as yourself?
-  - If no, you can create a new Issue with your question
+  - If not, you can create a new Issue with your question
   - If there is already an Issue with a question similar to yours then you should post your question there or any other info related to it
 - If you haven’t been able to solve it by yourself or with your colleagues then you should ask for help by creating a new [Issue](https://github.com/assembler-school/mar-2020-tfm-questions/issues).
 
