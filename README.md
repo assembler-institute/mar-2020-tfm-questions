@@ -4,7 +4,7 @@
 ## Before publishing a new Issue you MUST CAREFULLY READ the following key points:
 - Have you tried to solve this problem on your own first?
 - Have you tried to solve this problem in a different way?
-- Please try at least 2 different solutions of this problem before asking
+- Please try at least 2 different solutions to this problem before asking
     - You should always try to solve everything by yourself
 - Have you asked your colleagues if they have faced the same problem?
 - Is there an Issue asking the same question as yourself?
@@ -29,7 +29,7 @@ Once the question/issue has been solved, please mark it as solved!
 - Question
 
 
-## Details to incluse inside the Issue
+## Details to include inside the Issue
 
 Please include as much info about what you are trying to achieve and any helping documents or repositories with a testable solution.
 - What are you trying to achieve?
