@@ -38,3 +38,7 @@ Please include as much info about what you are trying to achieve and any helping
 - Did you find any help or solution on the Internet (stackoverflow, github issues, etc)?
 - In what other way have you tried to solve it?
 - Do you have a sample repository to try out the issue?
+
+## Example Issue:
+
+You can navigate to the Issue tab and check out [this example](https://github.com/assembler-school/mar-2020-tfm-questions/issues/1) for reference
