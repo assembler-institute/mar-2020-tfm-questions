@@ -16,23 +16,17 @@ Once the question/issue has been solved, please mark it as solved!
 
 ### Tags are:
 
-Help needed
- 
-Other
- 
-MongoDB
- 
-MySQL
- 
-Tooling
- 
-Firebase
- 
-Node
- 
-React
- 
-Question
+[View more](https://github.com/assembler-school/mar-2020-tfm-questions/labels)
+
+- Help needed
+- Other 
+- MongoDB
+- MySQL
+- Tooling
+- Firebase
+- Node
+- React
+- Question
 
 
 ## Details to incluse inside the Issue
